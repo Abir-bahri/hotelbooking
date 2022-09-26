@@ -1,0 +1,18 @@
+
+.back{
+    background-image: url("./back2.jpg"); 
+}
+
+.HomeMiddleContainer{
+
+/* margin-top: 50px; */
+display:flex;  
+flex-direction: column;  
+align-items: center;
+gap:30px;
+}
+.HomeMiddleTitle{
+margin-top: 40px;
+width:1024px;
+font-size:20px;
+}

@@ -1,0 +1,22 @@
+.Navbar{
+background-color: blue;
+display:flex;
+justify-content: space-between;
+height:60px ;
+gap:40px;
+
+}
+.navContainer {
+display:flex;
+justify-content: space-between;
+gap:40px;
+text-decoration: none;
+
+}
+
+.NavbarBtn{
+text-decoration: none;
+display:flex;
+justify-content: space-between;
+}
+
